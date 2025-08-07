@@ -43,7 +43,6 @@ import countryExplorerLogo from './assets/work_logo/country Explorer.png';
 import healthcareLogo from './assets/work_logo/healthcare.png';
 import musifyLogo from './assets/work_logo/musify.webp';
 import personalFinanceLogo from './assets/work_logo/PersonalFinanceVisualizer.png';
-import datawise from './assets/work_logo/datawise.png';
 import voiceAILogo from './assets/work_logo/Voice AI.png';
 
 
