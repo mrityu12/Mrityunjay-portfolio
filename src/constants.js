@@ -29,7 +29,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 
 
 // Experience Section Logo's
-import bluestockLogo from './assets/company_logo/bluestock.jpg';
+import bluestock from "./assets/company_logo/Bluestock.jpg";
 import skillstoneLogo from './assets/company_logo/skillstone.jpeg';
 
 // Education Section Logo's
@@ -102,7 +102,7 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
-    img: bluestockLogo,
+    img: bluestock,
     role: "SDE Intern",
     company: "Bluestock Fintech",
     date: "Feb 2025 – Mar 2025",
