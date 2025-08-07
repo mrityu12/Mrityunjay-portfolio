@@ -29,7 +29,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 
 
 // Experience Section Logo's
-import bluestockLogo from './assets/company_logo/bluestock.jpeg';
+import bluestockLogo from './assets/company_logo/bluestock.jpg';
 import skillstoneLogo from './assets/company_logo/skillstone.jpeg';
 
 // Education Section Logo's
