@@ -117,7 +117,7 @@ desc: "Currently working as a PHP Laravel Developer, building end-to-end modules
   "Cron Jobs",
   "Error Debugging",
   "Backend Development",
-  "Postman API Testing"
+  "Postman API Testing",
 ],
 
   },
