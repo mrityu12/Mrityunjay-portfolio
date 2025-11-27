@@ -100,14 +100,8 @@ export const SkillsInfo = [
 
  
 export const experiences = [
-  {
-    id: 0,
-    img: mysmartgenie,
-    role: "SDE Intern",
-    company: "mysmartgenie",
-    date: "sep 2025 – current",
-desc: "Currently working as a PHP Laravel Developer, building end-to-end modules for a School Management & Gatepass System. Responsible for developing secure REST APIs, managing MySQL databases, creating dynamic admin panels, PDF generation, and integrating features like attendance, student records, gatepass workflow, notifications, and reporting. Focused on clean architecture, performance optimization, and scalable backend development."
-    skills: [
+ desc: "Currently working as a PHP Laravel Developer, building end-to-end modules for a School Management & Gatepass System. Responsible for developing secure REST APIs, managing MySQL databases, creating dynamic admin panels, PDF generation, and integrating features like attendance, student records, gatepass workflow, notifications, and reporting. Focused on clean architecture, performance optimization, and scalable backend development.",
+skills: [
   "PHP",
   "Laravel",
   "MySQL",
@@ -117,8 +111,9 @@ desc: "Currently working as a PHP Laravel Developer, building end-to-end modules
   "Cron Jobs",
   "Error Debugging",
   "Backend Development",
-  "Postman API Testing",
+  "Postman API Testing"
 ],
+
 
   },
   {
